@@ -1,3 +1,23 @@
+#---
+#- name: Pull Docker Image of Calculator
+#  hosts: all
+#  vars:
+#    ansible_python_interpreter: /usr/bin/python3
+#  tasks:
+#    - name: Pull image
+#      docker_image:
+#        name: manish3693/calculator:latest
+#        source: pull
+#
+#    - name: Start docker service
+#      service:
+#        name: docker
+#        state: started
+#
+#    - name: Running container
+#      shell: docker run -it -d --name Calculator manish3693/calculator
+#
+#
 ---
 - name: Pull Docker Image of Calculator
   hosts: all
@@ -6,11 +26,13 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: manish3693/calculator:latest
+        name: '{{image}}'
         source: pull
+
     - name: Start docker service
       service:
         name: docker
         state: started
+
     - name: Running container
-      shell: docker run -it -d --name Calculator manish3693/calculator
+      shell: docker run -it -d --name Calculator {{image}}
