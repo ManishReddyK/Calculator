@@ -7,3 +7,7 @@
 2023-11-05 11:22:03.143 [main] INFO  org.example.Main - Executing naturalLog function
 2023-11-05 11:22:03.144 [main] INFO  org.example.Main - Executing squareRoot function
 2023-11-05 11:22:03.144 [main] INFO  org.example.Main - Executing power function
+2023-11-05 11:38:26.518 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-05 11:38:57.628 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-05 11:39:02.928 [main] INFO  org.example.Main - Start of Execution
+2023-11-05 11:39:06.886 [main] INFO  org.example.Main - Executing naturalLog function
