@@ -31,30 +31,37 @@ public class Main {
             else {
                 switch (op) {
                     case 1:
+                        logger.info("Start of Execution");
                         System.out.println("You choose Square Root!");
                         System.out.println("");
                         System.out.print("Enter Number: ");
                         num = reader.nextDouble();
                         squareRoot(num);
+
                         break;
 
                     case 2:
+                        logger.info("Start of Execution");
                         System.out.println("You choose Factorial!");
                         System.out.println("");
                         System.out.print("Enter Number: ");
                         numm = reader.nextInt();
                         factorial(numm);
+
                         break;
 
                     case 3:
+                        logger.info("Start of Execution");
                         System.out.println("You choose natural Log!");
                         System.out.println("");
                         System.out.print("Enter Number: ");
                         num = reader.nextDouble();
                         naturalLog(num);
+
                         break;
 
                     case 4:
+                        logger.info("Start of Execution");
                         System.out.println("You choose Power!");
                         System.out.println("");
                         System.out.print("Enter Number: ");
@@ -66,6 +73,7 @@ public class Main {
                         
                     default:
                         System.out.println("Exiting due to invalid input!!");
+                        logger.warn("Invalid input");
                         flag = 1;
                 }
             }
