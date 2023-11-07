@@ -15,7 +15,7 @@ public class Main {
         int numm;
         
         do {
-            System.out.println("--------------Calculator--------------");
+            System.out.println("---------------Calculator---------------");
             System.out.println("Choices of Operations: ");
             System.out.println();
             System.out.println("1. Square root");
@@ -37,7 +37,6 @@ public class Main {
                         System.out.print("Enter Number: ");
                         num = reader.nextDouble();
                         squareRoot(num);
-
                         break;
 
                     case 2:
@@ -47,7 +46,6 @@ public class Main {
                         System.out.print("Enter Number: ");
                         numm = reader.nextInt();
                         factorial(numm);
-
                         break;
 
                     case 3:
@@ -57,7 +55,6 @@ public class Main {
                         System.out.print("Enter Number: ");
                         num = reader.nextDouble();
                         naturalLog(num);
-
                         break;
 
                     case 4:
