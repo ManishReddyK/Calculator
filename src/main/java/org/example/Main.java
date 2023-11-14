@@ -32,8 +32,8 @@ public class Main {
             else {
                 switch (op) {
                     case 1:
-                        logger.info("Start of Execution");
-                        System.out.println("You choose Square Root!");
+                        logger.info("Start of Execution ");
+                        System.out.println("You choose Square Root! ");
                         System.out.println();
                         System.out.print("Enter Number: ");
                         num = reader.nextDouble();
