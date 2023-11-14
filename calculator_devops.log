@@ -11,3 +11,52 @@
 2023-11-05 11:38:57.628 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
 2023-11-05 11:39:02.928 [main] INFO  org.example.Main - Start of Execution
 2023-11-05 11:39:06.886 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:09:22.584 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:09:22.586 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:09:22.587 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:09:22.587 [main] INFO  org.example.Main - Executing power function
+2023-11-07 19:10:01.875 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:10:01.879 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:10:01.880 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:10:01.881 [main] INFO  org.example.Main - Executing power function
+2023-11-07 19:11:03.406 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:11:03.407 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:11:03.408 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:11:03.408 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:11:03.409 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:11:03.409 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:11:03.409 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:11:03.410 [main] INFO  org.example.Main - Executing power function
+2023-11-07 19:13:08.593 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-07 19:13:13.811 [main] INFO  org.example.Main - Start of Execution
+2023-11-07 19:13:15.872 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:14:39.470 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:14:39.472 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:14:39.473 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:14:39.473 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:14:39.473 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:14:39.474 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:14:39.474 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:14:39.475 [main] INFO  org.example.Main - Executing power function
+2023-11-07 19:16:51.065 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:16:51.067 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:16:51.068 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:16:51.069 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-07 19:16:51.069 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:16:51.070 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:16:51.070 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:16:51.071 [main] INFO  org.example.Main - Executing power function
+2023-11-07 19:19:12.120 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-07 19:25:53.211 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-07 19:25:53.217 [main] INFO  org.example.Main - Start of Execution
+2023-11-07 19:25:53.218 [main] INFO  org.example.Main - Executing factorial function
+2023-11-07 19:25:53.225 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-07 19:25:53.226 [main] INFO  org.example.Main - Start of Execution
+2023-11-07 19:25:53.230 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-07 19:26:49.903 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-07 19:27:28.688 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
+2023-11-14 20:00:11.530 [main] INFO  org.example.Main - Executing factorial function
+2023-11-14 20:00:11.532 [main] INFO  org.example.Main - Executing naturalLog function
+2023-11-14 20:00:11.533 [main] INFO  org.example.Main - Executing squareRoot function
+2023-11-14 20:00:11.534 [main] INFO  org.example.Main - Executing power function
+2023-11-14 20:00:14.836 [main] INFO  org.example.Main - The world's first unscientific calculator. Now with many many Devop tools behind it!
